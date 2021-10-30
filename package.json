@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattdimicelli/stats-preview-card-component.git"
+    "url": "git+https://github.com/mattdimicelli/3-column-preview-card-component.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mattdimicelli/stats-preview-card-component/issues"
+    "url": "https://github.com/mattdimicelli/3-column-preview-card-component/issues"
   },
-  "homepage": "https://github.com/mattdimicelli/stats-preview-card-component#readme",
+  "homepage": "https://github.com/mattdimicelli/3-column-preview-card-component#readme",
   "devDependencies": {
     "css-loader": "^6.5.0",
     "postcss": "^8.3.11",

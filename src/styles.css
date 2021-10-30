@@ -2,11 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-/* @layer components {
-    .stats {
-        @apply text-white-heading-and-stats text-xl font-bold;
+@layer components {
+    .par {
+        @apply text-white-par text-tiny font-lexend-deca mb-5;
     }
-    .stat-desc {
-        @apply text-white-stat-headings text-xs tracking-wide uppercase font-Lexend-Deca;
+    .h1 {
+        @apply text-3xl uppercase text-very-light-grey font-big-shoulders font-bold mb-5;
     }
-} */
+    .btn {
+        @apply bg-very-light-grey py-2 px-5 rounded-full text-tiny font-lexend-deca active:bg-transparent active:border-very-light-grey active:border-solid active:border-2 active:text-very-light-grey md:mt-16;
+    }
+}
