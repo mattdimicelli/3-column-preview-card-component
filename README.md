@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on Frontend Mentor: ](https://your-solution-url.com)
-- [Live site: ](https://your-live-site-url.com)
+- [Solution on Frontend Mentor: ](https://www.frontendmentor.io/solutions/responsive-3column-card-component-using-flexbox-tailwindcss-webpack-zGDVB2YNJ)
+- [Live site: ](https://mattdimicelli.github.io/3-column-preview-card-component/)
 
 ## My process
 
